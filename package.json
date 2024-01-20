@@ -1,7 +1,7 @@
 {
-  "name": "meon",
+  "name": "rivandas",
   "version": "8.0.0",
-  "description": "meon",
+  "description": "rivandas",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -11,15 +11,14 @@
     "termux",
     "whatsapp",
     "2023",
-    "wabase-md",
-    "base",
-    "baileys-md",
-    "bot",
-    "bot-md",
-    "multi-device"
+    "waba",
+    "bse",
+    "bails-md",
+    "rivandas",
+    "rivandas",
+    "rivandas"
   ],
-  "author": "meon",
-  "license": "GPL-3.0-or-later",
+  "author": "rivandas",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
